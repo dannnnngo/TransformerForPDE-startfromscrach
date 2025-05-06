@@ -2,7 +2,7 @@
 
 1. Start from the traditional transformer from the YouTube Video: https://www.youtube.com/watch?v=ISNdQcPhsts&t=3685s&pp=ygUQdHJhbnNmb3JtZXIgY29kZQ%3D%3D, the related file is transformerStructureStepbyStep.py
 
-2. Transform the step-by-step instruction code into the 2D case in the TransformerModified file. (Thanks to Cursor)
+2. Transform the step-by-step instruction code into the 2D case in the TransformerModified file. (Thanks to Cursor for helping me write the file test.py and data.py)
 
 3. Using the generated synthetic data for neural operators from the repository synthetic-data-for-neural-operators file.
 

@@ -9,5 +9,4 @@
    What is Drawing synthetic representative functions from a Sobolev space?
 
      1. What is the Sobolev space?
-        
-        
+        Sobolev空间是通过完备化的过程得到的. 把有理数中一些集合的极限也加到集合中，就相当于填补了集合中的那些洞。
